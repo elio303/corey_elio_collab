@@ -21,6 +21,7 @@ Run the following commands:
 - Rails 6.1.3
 
 * Configuration
+- bundler 2.2.14
 
 * Database creation
 
