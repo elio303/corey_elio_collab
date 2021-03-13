@@ -5,6 +5,12 @@ application up and running.
 
 Things you may want to cover:
 
+* Local Development
+
+Run the following commands:
+- `bundle install && bundle exec rails server`
+- Go to http://localhost:3000 in your browser
+
 * Ruby version
 
 * System dependencies
