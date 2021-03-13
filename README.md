@@ -12,14 +12,13 @@ Run the following commands:
 - Go to http://localhost:3000 in your browser
 
 * Ruby version
-- ruby 2.7
+- ruby 2.7.2
 
 * System dependencies
-- Ruby 2.7
 - SQLite 3.28.0
 - Node.js 15.11.0
-- Yarn 1.22.1
-- Rails 6.1.30
+- Yarn 1.22.10
+- Rails 6.1.3
 
 * Configuration
 
