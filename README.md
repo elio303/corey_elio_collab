@@ -12,6 +12,7 @@ Run the following commands:
 - Go to http://localhost:3000 in your browser
 
 * Ruby version
+- ruby 2.7.1p83 (2020-03-31 revision a0c7c23c9c) [x86_64-darwin19]
 
 * System dependencies
 
